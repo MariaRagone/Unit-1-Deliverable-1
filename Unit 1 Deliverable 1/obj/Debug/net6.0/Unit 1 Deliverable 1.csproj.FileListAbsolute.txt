@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\bin\Debug\net6.0\Unit 1 Deliverable 1.exe
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\bin\Debug\net6.0\Unit 1 Deliverable 1.deps.json
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\bin\Debug\net6.0\Unit 1 Deliverable 1.runtimeconfig.json
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\bin\Debug\net6.0\Unit 1 Deliverable 1.dll
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\bin\Debug\net6.0\Unit 1 Deliverable 1.pdb
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.AssemblyInfo.cs
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.dll
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\refint\Unit 1 Deliverable 1.dll
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.pdb
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\Unit 1 Deliverable 1.genruntimeconfig.cache
+C:\Users\maria\source\repos\Unit 1 Deliverable 1\Unit 1 Deliverable 1\obj\Debug\net6.0\ref\Unit 1 Deliverable 1.dll
